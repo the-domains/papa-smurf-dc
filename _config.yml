@@ -1,14 +1,26 @@
-layout_spectrum: 0.6807884012814611
-typography_spectrum: 0.5884934915229678
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1164874
 color:
-  brandStrength: 0.5847828248515725
-  lightness: 0.7062209225259721
-  saturation: 0.078055867459625
-  rhythmicContrast: 0.4124627555720508
+  saturation: 0.6039426
+  brandStrength: 0.8500597
+  lightness: 1
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FE0103'
+    - '#251812'
+    - '#FDFBEF'
+    - '#974116'
+    - '#B8A897'
+  rhythmicContrast: 0.807049
+layout_spectrum: 1
 name: 'Papa Smurf DC '
