@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1164874
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6039426
-  brandStrength: 0.8500597
+  brandStrength: 0.7485065
   lightness: 1
   brandColors:
     - '#FE0103'
     - '#251812'
     - '#FDFBEF'
-    - '#974116'
-    - '#B8A897'
+    - '#984116'
+    - '#CEC2B4'
   rhythmicContrast: 0.807049
+typography_spectrum: 0.1164874
 layout_spectrum: 1
 name: 'Papa Smurf DC '
