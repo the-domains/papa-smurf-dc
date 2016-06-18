@@ -1,8 +1,8 @@
 ---
 author: []
 title: Champion by Papa Smurf on iTunes
-dateModified: '2016-06-18T21:20:33.803Z'
-datePublished: '2016-06-18T21:21:12.954Z'
+dateModified: '2016-06-18T21:26:54.704Z'
+datePublished: '2016-06-18T22:45:06.580Z'
 description: ''
 isBasedOnUrl: 'https://itunes.apple.com/us/album/champion-single/id1056675797'
 sourcePath: _posts/2016-06-18-champion-by-papa-smurf-on-itunes.md
