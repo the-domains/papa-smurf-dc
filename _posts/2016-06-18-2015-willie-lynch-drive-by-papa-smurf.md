@@ -1,18 +1,15 @@
 ---
+datePublished: '2016-06-18T22:47:00.248Z'
+sourcePath: _posts/2016-06-18-2015-willie-lynch-drive-by-papa-smurf.md
+isBasedOnUrl: 'https://soundcloud.com/papasmurfdc/sets/2015-willie-lynch-drive'
+keywords: []
+related: []
 author:
   - name: Papa Smurf
     url: 'http://soundcloud.com/papasmurfdc'
     avatar: {}
-related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: >-
-  Stream 2015 WILLIE LYNCH DRIVE, a playlist by Papa Smurf from desktop or your
-  mobile device
+dateModified: '2016-06-18T22:47:00.043Z'
+title: ''
 app_links:
   - type: ios
     namespace: ai
@@ -50,17 +47,20 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/papasmurfdc/sets/2015-willie-lynch-drive'
-title: 2015 WILLIE LYNCH DRIVE by Papa Smurf
-datePublished: '2016-06-18T21:21:49.628Z'
-dateModified: '2016-06-18T21:09:22.119Z'
-starred: false
-sourcePath: _posts/2016-06-18-2015-willie-lynch-drive-by-papa-smurf.md
+publisher:
+  url: 'http://soundcloud.com'
+  name: SoundCloud
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
+description: ''
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: AudioObject
 _context: 'http://schema.org'
+_type: AudioObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f1e6f4-74f9-42b6-ab82-497a02780885.jpg)
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F173458140%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fpapasmurfdc%2Fsets%2F2015-willie-lynch-drive&amp;image=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1466169112&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
