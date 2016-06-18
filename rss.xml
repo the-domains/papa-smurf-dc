@@ -4,8 +4,15 @@
         <description><![CDATA[Papa Smurf DC ]]></description>
         <link>https://thegrid.ai/papa-smurf-dc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 21:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 21:21:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/papa-smurf-dc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2015 WILLIE LYNCH DRIVE by Papa Smurf]]></title>
+            <description><![CDATA[<article><h1>2015 WILLIE LYNCH DRIVE by Papa Smurf</h1><p>Stream 2015 WILLIE LYNCH DRIVE, a playlist by Papa Smurf from desktop or your mobile device</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45f5207a6ad02055d87fd3876babad68/noop.png?input=http%3A%2F%2Fa1.sndcdn.com%2Fimages%2Ffb_placeholder.png%3F1466169112"></article>]]></description>
+            <link>https://soundcloud.com/papasmurfdc/sets/2015-willie-lynch-drive</link>
+            <guid isPermaLink="false">1245ddfd-e978-4cf4-980a-ebcf2910cac1</guid>
+            <pubDate>Sat, 18 Jun 2016 21:21:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Papa Smurf - KOBE II(TOO) by Papa Smurf]]></title>
             <description><![CDATA[<article><h1>Papa Smurf - KOBE II(TOO) by Papa Smurf</h1><p>Stream Papa Smurf - KOBE II(TOO) by Papa Smurf from desktop or your mobile device</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0433e04435838e9b3cd2acc352158e1/noop.jpg?input=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000134991888-opbr4h-t500x500.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://itunes.apple.com/us/album/champion-single/id1056675797</link>
             <guid isPermaLink="false">c517fe5a-9b18-4f89-9bc4-0e053929af44</guid>
             <pubDate>Sat, 18 Jun 2016 21:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No Limits by Papa Smurf on iTunes]]></title>
-            <description><![CDATA[<article><h1>No Limits by Papa Smurf on iTunes</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/687ce187-22c1-473b-a759-71eb5259689b.jpg"></article>]]></description>
-            <link>https://itunes.apple.com/us/album/no-limits-single/id1059397382</link>
-            <guid isPermaLink="false">237dc592-7b9b-411e-bb70-71da14a86aaa</guid>
-            <pubDate>Sat, 18 Jun 2016 21:21:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
