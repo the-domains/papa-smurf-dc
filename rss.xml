@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Papa Smurf DC ]]></title>
+        <description><![CDATA[Papa Smurf DC ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 18:46:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Papa Smurf]]></title>
+            <description><![CDATA[<article><h1>Papa Smurf</h1><p>Official Soundcloud of Papa Smurf DC For inquiries: papasmurfdc@gmail.com</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f6075f82a2cae82b94434e171b7aa062/noop.jpg?input=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000186670236-cct73w-t500x500.jpg"></article>]]></description>
+            <link>https://soundcloud.com/papasmurfdc</link>
+            <guid isPermaLink="false">589bad29-185f-40cf-9a03-88c233c26a42</guid>
+            <pubDate>Sat, 18 Jun 2016 18:46:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
