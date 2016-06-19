@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-19T15:07:47.740Z'
+datePublished: '2016-06-19T15:08:02.000Z'
 sourcePath: >-
   _posts/2016-06-18-summer-16-freestyle-papa-smurf-x-eyehigh-x-incognito-by-pap.md
 isBasedOnUrl: >-
@@ -10,7 +10,7 @@ author:
   - name: Papa Smurf
     url: 'http://soundcloud.com/papasmurfdc'
     avatar: {}
-dateModified: '2016-06-19T15:07:47.576Z'
+dateModified: '2016-06-19T15:08:01.823Z'
 title: SUMMER 16 FREESTYLE- PAPA SMURF X EYEHIGH X INCOGNITO by Papa Smurf
 app_links:
   - type: ios
@@ -55,7 +55,7 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: Trapitol Hill....All Summer 16.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
