@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-19T17:14:48.173Z'
+datePublished: '2016-06-24T22:18:46.398Z'
 sourcePath: _posts/2016-06-18-2015-willie-lynch-drive-by-papa-smurf.md
 isBasedOnUrl: 'https://soundcloud.com/papasmurfdc/sets/2015-willie-lynch-drive'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Papa Smurf
     url: 'http://soundcloud.com/papasmurfdc'
     avatar: {}
-dateModified: '2016-06-19T17:13:24.444Z'
+dateModified: '2016-06-24T22:18:46.181Z'
 title: ''
 app_links:
   - type: ios
@@ -53,7 +53,7 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: 2015 WILLIE LYNCH DRIVE
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
