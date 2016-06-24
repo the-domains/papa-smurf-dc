@@ -30,11 +30,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.thaproducesection.com/papa-smurf-dc-summer-sixteen-freestyle/'
 title: Papa Smurf DC - Summer Sixteen Freestyle | Tha Produce Section
-datePublished: '2016-06-21T07:58:15.429Z'
-dateModified: '2016-06-21T07:58:15.187Z'
+datePublished: '2016-06-24T22:18:43.226Z'
+dateModified: '2016-06-24T22:18:42.961Z'
 sourcePath: >-
   _posts/2016-06-21-papa-smurf-dc-summer-sixteen-freestyle-or-tha-produce-secti.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
