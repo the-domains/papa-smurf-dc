@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1069295
+typography_spectrum: 0.25340497796423733
 color:
-  saturation: 0.6039426
-  brandStrength: 0.7485065
-  rhythmicContrast: 0
+  saturation: 0.8111195631790906
+  brandStrength: 0.12556414864957333
+  rhythmicContrast: 0.5385972002986819
   brandColors:
-    - '#FE0103'
-    - '#251812'
-    - '#FDFBEF'
-    - '#984116'
-    - '#CEC2B4'
-  lightness: 1
-layout_spectrum: 1
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  lightness: 0.7239021095447242
+layout_spectrum: 0.9984602900221944
 name: 'Papa Smurf DC '
